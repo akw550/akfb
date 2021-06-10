@@ -1,5 +1,5 @@
 # akfb
-$ pkg update && upgrade
+$ pkg update
 
 $ pkg install git
 
