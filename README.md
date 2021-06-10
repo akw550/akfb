@@ -17,6 +17,6 @@ $ gem install lolcat
 
 $ git clone https://github.com/akw550/akfb
 
-$ cd akfb
+$ cd fbcrc
 
 $ python2 Start.pyc
