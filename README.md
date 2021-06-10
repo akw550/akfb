@@ -15,8 +15,8 @@ $ pip2 install bs4
 
 $ gem install lolcat
 
-$ git clone https://github.com/akw550/akfb
-
-$ cd fbcrc
+$ git clone https://github.com/akw550/akfb.git
+ls
+cd fbcrc
 
 $ python2 Start.pyc
